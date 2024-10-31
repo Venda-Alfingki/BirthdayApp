@@ -9,6 +9,7 @@ LAB 6 <br>
 Nama Aplikasi: Birthday Wishes<br>
 Deskripsi Aplikasi: Aplikasi "Birthday Wishes" ini dirancang untuk membantu pengguna membuat dan membagikan ucapan ulang tahun yang personal dan menarik dengan template bertema khusus. Pengguna dapat memasukkan nama pengirim, pesan ulang tahun, dan nama penerima pada kolom isian yang tersedia. Setiap kolom memiliki gaya font yang unik, menambah kesan elegan pada ucapan. Dengan latar belakang penuh dekorasi meriah seperti balon dan bunga, aplikasi ini menghadirkan nuansa perayaan yang hangat. Fitur utama aplikasi meliputi tombol "Kirim" untuk menyimpan atau menyiapkan ucapan, serta tombol "Bagikan" agar ucapan mudah dibagikan melalui media sosial atau pesan instan. Desain antarmuka yang sederhana memudahkan pengguna membuat ucapan ulang tahun yang indah.<br>
 Credit: <br> - https://pin.it/6iyQoZwmv\ <br>
-        -https://pin.it/2GjwIZ5DA
+        -https://pin.it/2GjwIZ5DA <br>
+Link Prototipe: https://www.figma.com/design/PHm9nDYmQlcnwWQjJX53Sv/Untitled?node-id=7-2&t=60n8F33QJVZ99iuS-1
 
      
